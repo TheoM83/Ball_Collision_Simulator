@@ -1,5 +1,6 @@
 # PARTICLE SIMULATION
 A simple script that simulates 2D particle collisions.
+Those collisions respects actual physical rules.
 
 ## Installation
 
